@@ -4,7 +4,7 @@ Largely based on [Sebastian Lague](https://github.com/SebLague)'s work.
   * [Procedural Planets](https://github.com/SebLague/Procedural-Planets)
   * [Spherical-Gravity](https://github.com/SebLague/Spherical-Gravity)
 
-This Unity project creates a procedurally generated world that a player can explore. The world uses heightmaps to assign color (which is also blended) to give the illusion of oceans, beaches, and mountains. This is by no means a finished product--it is merely a proof of concept. 
+This Unity high-school project creates a procedurally generated world that a basic player can explore. The world uses heightmaps to assign color (which is also blended) to give the illusion of oceans, beaches, and mountains. This is by no means a finished product--it is merely a proof of concept. 
 
 <img width="374" alt="Screen Shot 2022-07-16 at 11 05 01 PM" src="https://user-images.githubusercontent.com/19243227/179383901-f0036596-5d0a-489f-8322-f44133509733.png">
 
